@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Marija
 
 - 🔭 I'm building stuff on Blockchain
-- - 📫 **mijailovicmarija@hotmail.com**
+- 📫 **mijailovicmarija@hotmail.com**
 
 
 <p align="center">
