@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=marijamijailovic&rank=SECRET,SSS,SS,S,A&theme=radical&no-bg=true&no-frame=true&column=4" alt="CeliktepeMurat" />
+<img src="https://github-profile-trophy.vercel.app/?username=marijamijailovic&rank=SECRET,SSS,SS,S,A&theme=radical&no-bg=true&no-frame=true&column=4" alt="marijamijailovic" />
 </p>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=marijamijailovic&theme=blue-green&show_icons=true&count_private=true&hide_border=true" />
@@ -13,7 +13,7 @@
 
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marijamijailovic&theme=blue-green&hide_border=true" alt="CeliktepeMurat" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marijamijailovic&theme=blue-green&hide_border=true" alt="marijamijailovic" />
 </p>
 
 <!--
